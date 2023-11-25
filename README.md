@@ -1,4 +1,4 @@
-### Heya 👋
+# Heya 👋
 
 ## About me
 
